@@ -6,7 +6,8 @@ Nice to see you here! 👋
 
 I am 15 yo.
 Working on discord bots since last year started using discord.py
-![image](https://user-images.githubusercontent.com/89577470/141128641-cac89bc4-b4b1-48c2-b527-34e1b72f3553.png)
+![image](https://user-images.githubusercontent.com/89577470/141129865-2eddeb43-e664-44ec-a056-f18802cd4c6e.png)
+
 Pronouns: He / Him
 
 📫 How to reach me:
@@ -18,5 +19,15 @@ Twitch: hestreamschess
 Youtube: 
 SᑗS
 
-👨🏻‍�![image](https://user-images.githubusercontent.com/89577470/141129599-54b45d95-3847-4f48-96c4-f85a73ba7752.png
-Languages and Tools
+![image](https://user-images.githubusercontent.com/89577470/141129899-e304ef79-6a3a-4ecd-8be7-9031d31b0ae4.png)
+
+Languages 
+Python
+Js
+Html
+Css
+Js
+7more
+
+Byeee
+
